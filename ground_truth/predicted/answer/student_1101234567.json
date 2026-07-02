@@ -1,0 +1,69 @@
+{
+    "mcq": [
+        "B",
+        "A",
+        "C",
+        "D",
+        "B",
+        "A",
+        "C",
+        "B",
+        "D",
+        "A",
+        "C",
+        "B",
+        "A",
+        "D",
+        "C",
+        "B",
+        "A",
+        "D",
+        "C",
+        "B",
+        "B",
+        "C",
+        "D",
+        "B",
+        "A",
+        "C",
+        "B",
+        "D",
+        "A",
+        "C"
+    ],
+    "choices": [
+        "scalar ",
+        "matteix ",
+        "determinant ",
+        "transpose ",
+        "eigenvalue ",
+        "egenvector ",
+        "irank ",
+        "null space ",
+        "basis ",
+        "span ",
+        "linear independence ",
+        "dot product ",
+        "czoss product ",
+        "identity mattzx ",
+        "inverse matux ",
+        "orthogonality ",
+        "diagonalization ",
+        "singular value ",
+        "vector space ",
+        "linear transformation "
+    ],
+    "essays": [
+        [
+            "$$\\text{MATRIX MULTIPLICATION:}$$\n$$\\begin{bmatrix} 1 & 2 \\\\ 3 & 4 \\end{bmatrix} \\times \\begin{bmatrix} 5 & 6 \\\\ 7 & 8 \\end{bmatrix} = \\begin{bmatrix} 19 & 22 \\\\ 43 & 50 \\end{bmatrix}$$\n$$\\text{EACH ENTRY IN THE RESULT COMES FROM A ROW OF THE FIRST MATRIX DOTTED}$$\n$$\\text{WITH A COLUMN OF THE SECOND. FOR EXAMPLE, } 19 = 1*5 + 2*7, \\text{ AND } 50 =$$\n$$3*6 + 4*8.$$"
+        ],
+        [
+            "$\\text{CONVOLUTION (FILTER APPLIED TO IMAGE PATCH):}$\n$[1 \\;\\; 0] \\quad [4 \\;\\; 5]$\n$[0 \\;\\; -1] * [6 \\;\\; 7] = -3$\n$\\text{THE FILTER IS LAID DIRECTLY OVER THE PATCH, EACH PAIR OF OVERLAPPING}$\n$\\text{CELLS IS MULTIPLIED, AND ALL FOUR PRODUCTS ARE SUMMED: } (1*4)+(0*5)+$\n$(0*6)+(-1*7) = 4 - 7 = -3.$"
+        ],
+        [
+            "```latex\n\\begin{verbatim}\nDEF MULTIPLICATION_TABLE(N):\n    TABLE = []\n    FOR I IN RANGE(1, N + 1):\n        ROW = []\n        FOR J IN RANGE(1, N + 1):\n            ROW.APPEND(I * J)\n\\end{verbatim}\n```"
+        ]
+    ],
+    "studentId": 1101234567,
+    "modelId": 1
+}

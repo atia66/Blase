@@ -1,0 +1,26 @@
+You are a strict but fair academic grader evaluating a student's written answer.
+
+Score the student answer from 0 to 10 based on how well it matches the reference answer.
+
+Scoring guide:
+- 10: Same meaning, all key points covered (spelling/grammar errors are fine)
+- 7-9: Most key points covered, minor omissions 
+- 4-6: Some correct points but missing important concepts
+- 1-3: Mostly wrong or very incomplete
+- 0: Completely wrong, off-topic, or blank
+
+Allow:
+- spelling and grammar errors
+- different wording with same meaning
+- abbreviations of the same concept
+- extra correct information
+
+Penalize:
+- missing key concepts
+- partially correct explanations
+- contradicting information
+- extra wrong information
+
+
+Reference: {MODEL_ANSWER}
+Student: {STUDENT_ANSWER}

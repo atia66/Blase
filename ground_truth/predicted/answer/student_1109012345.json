@@ -1,0 +1,69 @@
+{
+    "mcq": [
+        "B",
+        "A",
+        "C",
+        "D",
+        "B",
+        "A",
+        "C",
+        "B",
+        "D",
+        "A",
+        "C",
+        "B",
+        "A",
+        "D",
+        "C",
+        "B",
+        "A",
+        "D",
+        "C",
+        "B",
+        "A",
+        "C",
+        "D",
+        "B",
+        "A",
+        "C",
+        "B",
+        "D",
+        "A",
+        "C"
+    ],
+    "choices": [
+        "scalar ",
+        "linear transformation ",
+        "span ",
+        "determinant ",
+        "egenvector ",
+        "transpose ",
+        "iank ",
+        "basis ",
+        "null space ",
+        "linear independence ",
+        "vector space ",
+        "dot product ",
+        "czoss product ",
+        "orthogonality ",
+        "inverse matux ",
+        "identity matrix ",
+        "diagonalization ",
+        "singular value ",
+        "eigenvalue ",
+        "matrix "
+    ],
+    "essays": [
+        [
+            "```latex\n\\text{MATRIX MULTIPLICATION:} \\\\\n[1 \\ 2] \\quad [5 \\ 6] \\quad [5 \\ 12] \\\\\n[3 \\ 4] \\times [7 \\ 8] = [21 \\ 32] \\\\\n\\text{I MULTIPLIED THE NUMBERS THAT ARE IN THE SAME POSITION IN BOTH MATRICES,} \\\\\n\\text{so } 1*5=5, 2*6=12, 3*7=21, 4*8=32.\n```"
+        ],
+        [
+            "$$\\text{CONVOLUTION:}$$\n$$[1 \\quad 0] \\quad [4 \\quad 5]$$\n$$[0 \\quad -1] * [6 \\quad 7] = 4$$\n$$\\text{I MULTIPLIED THE TOP-LEFT FILTER VALUE BY THE TOP-LEFT PATCH VALUE,}$$\n$$1 * 4 = 4 \\text{ AND THAT GAVE ME THE ANSWER}$$"
+        ],
+        [
+            "```latex\n\\begin{verbatim}\nDEF TABLE(N):\n  FOR I IN RANGE(N):\n    FOR J IN RANGE(N):\n      PRINT(I * J)\n\nTHIS LOOPS THROUGH I AND J STARTING FROM 0 UP TO N AND PRINTS EACH\nMULTIPLICATION AS IT GOES.\n\\end{verbatim}\n```"
+        ]
+    ],
+    "studentId": 1109012345,
+    "modelId": 1
+}

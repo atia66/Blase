@@ -1,0 +1,69 @@
+{
+    "mcq": [
+        "B",
+        "A",
+        "C",
+        "D",
+        "B",
+        "A",
+        "C",
+        "B",
+        "D",
+        "A",
+        "C",
+        "B",
+        "A",
+        "D",
+        "C",
+        "B",
+        "A",
+        "D",
+        "C",
+        "B",
+        "A",
+        "C",
+        "D",
+        "B",
+        "A",
+        "C",
+        "B",
+        "D",
+        "A",
+        "C"
+    ],
+    "choices": [
+        "scalar ",
+        "matteix ",
+        "determinant ",
+        "null space ",
+        "transpose ",
+        "egenvector ",
+        "eigenvalue ",
+        "iank ",
+        "span ",
+        "basis ",
+        "identity mattrix ",
+        "dot product ",
+        "czoss product ",
+        "linear independence ",
+        "inverse matux ",
+        "orthogonality ",
+        "diagonalization ",
+        "singular value ",
+        "vector space ",
+        "linear transformation "
+    ],
+    "essays": [
+        [
+            "\\text{MATRIX MULTIPLY:} \\\\\n\\begin{bmatrix} 1 & 2 \\\\ 3 & 4 \\end{bmatrix} \\times \\begin{bmatrix} 5 & 6 \\\\ 7 & 8 \\end{bmatrix} = \\begin{bmatrix} 19 & 22 \\\\ 43 & 50 \\end{bmatrix} \\\\\n\\text{YOU TAKE A ROW AND A COLUMN AND MULTIPLY THE MATCHING NUMBERS THEN} \\\\\n\\text{ADD THEM, DO THAT FOR EVERY SPOT IN THE NEW MATRIX.}"
+        ],
+        [
+            "$$\\text{CONVOLUTION:}$$\n$$[1 \\ 0] \\ [4 \\ 5]$$\n$$[0 \\ -1] \\ * \\ [6 \\ 7] \\ = \\ 11$$\n$$\\text{YOU MULTIPLY THE FILTER NUMBERS WITH THE PATCH NUMBERS UNDER THEM}$$\n$$\\text{AND ADD EVERYTHING TOGETHER TO GET THE FINAL ANSWER}$$"
+        ],
+        [
+            "```latex\n\\begin{verbatim}\nDEF MULTIPLICATION_TABLE(N):\n    TABLE = []\n    i = 1\n    WHILE i < N:\n        ROW = []\n        FOR J IN RANGE(i, N + 1):\n\\end{verbatim}\n```"
+        ]
+    ],
+    "studentId": 1106789012,
+    "modelId": 1
+}

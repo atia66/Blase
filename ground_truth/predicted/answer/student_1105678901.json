@@ -1,0 +1,69 @@
+{
+    "mcq": [
+        "B",
+        "A",
+        "C",
+        "D",
+        "B",
+        "A",
+        "C",
+        "B",
+        "D",
+        "A",
+        "C",
+        "B",
+        "A",
+        "D",
+        "C",
+        "B",
+        "A",
+        "D",
+        "C",
+        "B",
+        "A",
+        "C",
+        "D",
+        "B",
+        "A",
+        "C",
+        "B",
+        "D",
+        "A",
+        "C"
+    ],
+    "choices": [
+        "scalar ",
+        "matteix ",
+        "determinant ",
+        "transpose ",
+        "eigenvalue ",
+        "egenvector ",
+        "null space ",
+        "iank ",
+        "basis ",
+        "span ",
+        "linear independence ",
+        "dot product ",
+        "czoss product ",
+        "identity mattzx ",
+        "inverse matux ",
+        "orthogonality ",
+        "diagonalization ",
+        "singular value ",
+        "vector space ",
+        "linear transformation "
+    ],
+    "essays": [
+        [
+            "```latex\n\\text{MATRIX MULTIPLICATION:} \\\\\n[1 \\quad 2] \\quad [5 \\quad 6] \\quad [19 \\quad 22] \\\\\n[3 \\quad 4] \\times [7 \\quad 8] = [43 \\quad 50] \\\\\n\\text{Each value is a row from A dotted with a column from B, so the top-} \\\\\n\\text{right entry is } 1 * 6 + 2 * 8 = 22 \\text{ and the bottom-left is } 3 * 5 + 4 * 7 = 43.\n```"
+        ],
+        [
+            "```latex\n\\text{CONVOLUTION (FILTER APPLIED TO IMAGE PATCH):} \\\\\n[1 \\ 0] \\ [4 \\ 5] \\\\\n[0 \\ -1] * [6 \\ 7] = -3 \\\\\n\\text{MULTIPLYING MATCHING POSITIONS AND SUMMING GIVES } 1*4 + 0*5 + 0*6 + \\\\\n-1*7, \\text{ WHICH WORKS OUT TO } -3.\n```"
+        ],
+        [
+            "\\# \\text{BUILDS MULTIPLICATION TABEL} \\\\\n\\text{DEF MULTIPLICATION\\_TABLE(N):} \\\\\n\\text{    TABLE = []} \\\\\n\\text{    FOR I IN RANGE(1, N + 1):} \\\\\n\\text{        ROW = []} \\\\\n\\text{        FOR J IN RANGE(1, N):}"
+        ]
+    ],
+    "studentId": 1105678901,
+    "modelId": 1
+}

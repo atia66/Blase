@@ -1,0 +1,69 @@
+{
+    "mcq": [
+        "B",
+        "A",
+        "C",
+        "D",
+        "B",
+        "A",
+        "C",
+        "B",
+        "D",
+        "A",
+        "C",
+        "B",
+        "A",
+        "D",
+        "C",
+        "B",
+        "A",
+        "D",
+        "C",
+        "B",
+        "A",
+        "C",
+        "D",
+        "B",
+        "A",
+        "C",
+        "B",
+        "D",
+        "A",
+        "C"
+    ],
+    "choices": [
+        "determinant ",
+        "matteix ",
+        "scalar ",
+        "transpose ",
+        "eigenvalue ",
+        "egenvector ",
+        "irank ",
+        "null space ",
+        "basis ",
+        "span ",
+        "linear independence ",
+        "dot product ",
+        "czoss product ",
+        "identity mattzx ",
+        "inverse matux ",
+        "orthogonality ",
+        "diagonalization ",
+        "linear transformation ",
+        "vector space ",
+        "singular value "
+    ],
+    "essays": [
+        [
+            "$$\\text{MATRIX MULTIPLICATION:}$$\n$$\\begin{bmatrix} 1 & 2 \\\\ 3 & 4 \\end{bmatrix} \\times \\begin{bmatrix} 5 & 6 \\\\ 7 & 8 \\end{bmatrix} = \\begin{bmatrix} 19 & 22 \\\\ 43 & 50 \\end{bmatrix}$$\n$$\\text{EACH OUTPUT CELL IS A ROW-TIMES-COLUMN DOT PRODUCT. TOP-LEFT IS}$$\n$$1*5+2*7=19 \\text{ BOTTOM-RIGHT IS } 3*6+4*8=50, \\text{ AND SO ON FOR THE OTHERS.}$$"
+        ],
+        [
+            "```latex\n\\text{CONVOLUTION (FILTER APPLIED TO IMAGE PATCH):} \\\\\n\\begin{bmatrix} 1 & 0 \\\\ 0 & -1 \\end{bmatrix} * \\begin{bmatrix} 4 & 5 \\\\ 6 & 7 \\end{bmatrix} = 3 \\\\\n\\text{I MULTIPLIED EACH FILTER CELL BY THE PATCH CELL UNDER IT AND ADDED THEM} \\\\\n\\text{UP: } 1*4 + 0*5 + 0*6 + 1*7 = 11 \\dots \\text{ACTUALLY SIMPLIFYING IT COMES OUT TO } 3 \\\\\n\\text{ONCE THE POSITIVE AND NEGATIVE TERMS COMBINE.}\n```"
+        ],
+        [
+            "```latex\n\\begin{verbatim}\nDEF MULTIPLICATION_TABLE(N):\n  TABLE = []\n  FOR I IN RANGE(1, N + 1):\n    ROW = []\n    FOR J IN RANGE(1, N + 1):\n      ROW.APPEND(I * J)\n\\end{verbatim}\n```"
+        ]
+    ],
+    "studentId": 1104567890,
+    "modelId": 1
+}

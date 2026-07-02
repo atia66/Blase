@@ -1,0 +1,69 @@
+{
+    "mcq": [
+        "B",
+        "A",
+        "C",
+        "D",
+        "B",
+        "A",
+        "C",
+        "B",
+        "D",
+        "A",
+        "C",
+        "B",
+        "A",
+        "D",
+        "C",
+        "B",
+        "A",
+        "D",
+        "C",
+        "B",
+        "A",
+        "C",
+        "D",
+        "B",
+        "A",
+        "C",
+        "B",
+        "D",
+        "A",
+        "C"
+    ],
+    "choices": [
+        "scalar ",
+        "determinant ",
+        "linear transformation ",
+        "transpose ",
+        "eigenvalue ",
+        "egenvector ",
+        "irank ",
+        "null space ",
+        "basis ",
+        "span ",
+        "linear independence ",
+        "dot product ",
+        "czoss product ",
+        "identity mattzx ",
+        "orthogunality ",
+        "inverse mattzix ",
+        "diagonalization ",
+        "singular value ",
+        "vector space ",
+        "matrix "
+    ],
+    "essays": [
+        [
+            "$\\text{MATRIX MULTIPLICATION:}$\n\n$[1 \\ 2] \\quad [5 \\ 6] \\quad [19 \\ 21]$\n\n$[3 \\ 4] \\times [7 \\ 8] = [43 \\ 50]$\n\n$\\text{EACH VALUE COMES FROM A ROW DOTTED WITH A COLUMN, SO TOP-RIGHT}$\n\n$\\text{SHOULD BE } 1*6+2*8, \\text{ TOP-LEFT IS } 1*5+2*7=19, \\text{ AND THE BOTTOM ROW}$\n\n$\\text{FOLLOWS THE SAME PATTERN.}$"
+        ],
+        [
+            "```latex\n\\text{CONVOLUTION (FILTER APPLIED TO IMAGE PATCH):} \\\\\n\\begin{bmatrix} 1 & 0 \\\\ 0 & -1 \\end{bmatrix} * \\begin{bmatrix} 4 & 5 \\\\ 6 & 7 \\end{bmatrix} = -3 \\\\\n\\text{MULTIPLYING EACH FILTER VALUE BY THE PATCH VALUE BENEATH IT AND SUMMING} \\\\\n\\text{GIVES } 1 * 4 + 0 * 5 + 0 * 6 + -1 * 7 = -3.\n```"
+        ],
+        [
+            "```latex\n\\begin{verbatim}\nDEF MULTIPLICATION_TABEL(N):\nTABLE = []\nFOR I IN RANGE(1, N + 1):\nROW = []\nFOR J IN RANGE(1, N + 1):\nROW.APPEND(I * J)\n\\end{verbatim}\n```"
+        ]
+    ],
+    "studentId": 1108901234,
+    "modelId": 1
+}

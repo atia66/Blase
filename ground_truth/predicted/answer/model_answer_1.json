@@ -1,0 +1,69 @@
+{
+    "mcq": [
+        "B",
+        "A",
+        "C",
+        "D",
+        "B",
+        "A",
+        "C",
+        "B",
+        "D",
+        "A",
+        "C",
+        "B",
+        "A",
+        "D",
+        "C",
+        "B",
+        "A",
+        "D",
+        "C",
+        "B",
+        "A",
+        "C",
+        "D",
+        "B",
+        "A",
+        "C",
+        "B",
+        "D",
+        "A",
+        "C"
+    ],
+    "choices": [
+        "scalar ",
+        "matteix ",
+        "determinant ",
+        "transpose ",
+        "eigenvalue ",
+        "egenvector ",
+        "irank ",
+        "null space ",
+        "basis ",
+        "span ",
+        "linear independence ",
+        "dot product ",
+        "czoss product ",
+        "identity mattzx ",
+        "inverse matux ",
+        "orthogonality ",
+        "diagonalization ",
+        "singular value ",
+        "vector space ",
+        "linear transformation "
+    ],
+    "essays": [
+        [
+            "$\\text{MATRIX MULTIPLICATION:}$\n$[1\\ 2] \\quad [5\\ 6] \\quad [19\\ 22]$\n$[3\\ 4] \\times [7\\ 8] = [43\\ 50]$"
+        ],
+        [
+            "$$\\text{CONVOLUTION (FILTER APPLIED TO IMAGE PATCH):}$$\n$$[1 \\quad 0] \\quad [4 \\quad 5]$$\n$$[0 \\quad -1] * [6 \\quad 7] = -3$$"
+        ],
+        [
+            "```latex\n\\begin{verbatim}\nDEF MULTIPLICATION_TABLE(N):\n  TABLE = []\nFOR I IN RANGE(1, N + 1):\n  ROW = []\n  FOR J IN RANGE(1, N + 1):\n    ROW.APPEND(I * J)\n\\end{verbatim}\n```"
+        ]
+    ],
+    "studentId": "null",
+    "modelId": 1
+}

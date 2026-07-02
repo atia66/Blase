@@ -1,0 +1,69 @@
+{
+    "mcq": [
+        "B",
+        "A",
+        "C",
+        "D",
+        "B",
+        "A",
+        "C",
+        "B",
+        "D",
+        "A",
+        "C",
+        "B",
+        "A",
+        "D",
+        "C",
+        "B",
+        "A",
+        "D",
+        "C",
+        "B",
+        "A",
+        "C",
+        "D",
+        "B",
+        "A",
+        "C",
+        "B",
+        "D",
+        "A",
+        "C"
+    ],
+    "choices": [
+        "scalar ",
+        "transpose ",
+        "determinant ",
+        "matrix ",
+        "eigenvalue ",
+        "egenvector ",
+        "irank ",
+        "null space ",
+        "basis ",
+        "span ",
+        "linear independence ",
+        "dot product ",
+        "czoss product ",
+        "inverse mattzix ",
+        "identity matzix ",
+        "orthogonality ",
+        "diagonalization ",
+        "singular value ",
+        "linear transformation ",
+        "vector space "
+    ],
+    "essays": [
+        [
+            "```latex\n\\text{MATRIX MULTIPLICATION:} \\\\\n\\begin{bmatrix} 1 & 2 \\end{bmatrix} \\begin{bmatrix} 5 & 6 \\end{bmatrix} \\begin{bmatrix} 6 & 8 \\end{bmatrix} \\\\\n\\begin{bmatrix} 3 & 4 \\end{bmatrix} \\times \\begin{bmatrix} 7 & 8 \\end{bmatrix} = \\begin{bmatrix} 10 & 12 \\end{bmatrix} \\\\\n\\text{I LINED THE TWO MATRICES UP AND ADDED THE NUMBERS THAT ARE IN THE SAME} \\\\\n\\text{SPOT, SO } 1+5=6, 2+6=8, 3+7=10, 4+8=12\n```"
+        ],
+        [
+            "$$\\text{CONVOLUTION (FILTER APPLIED TO IMAGE PATCH):}$$\n$$[1 \\ 0] \\ [4 \\ 5]$$\n$$[0 \\ -1] * [6 \\ 7] = -3$$\n$$\\text{EACH FILTER VALUE MULTIPLIES THE NUMBER UNDER IT AND THEN I ADD ALL}$$\n$$\\text{FOUR RESULTS TOGETHER: } 1*4 + 0*5 + 0*6 + -1*7 = -3.$$"
+        ],
+        [
+            "```latex\n\\begin{verbatim}\nDEF MULTIPLICATION_TABLE(N):\n    TABLE = []\n    FOR I IN RANGE(1, N + 1):\n        ROW = []\n        FOR J IN RANGE(1, N + 1):\n            ROW.APPEND(I * J)\n\\end{verbatim}\n```"
+        ]
+    ],
+    "studentId": 1103456789,
+    "modelId": 1
+}

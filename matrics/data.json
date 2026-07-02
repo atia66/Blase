@@ -1,0 +1,3762 @@
+{
+  "question_generation": [
+    {
+      "timestamp": "01:51:38",
+      "ram_mb": 396.69,
+      "duration_ms": 32476.8,
+      "metrics": {
+        "unit_label": "chunk",
+        "units": [
+          {
+            "unit_index": 1,
+            "label": "C1",
+            "tokens_input": 1144,
+            "tokens_output": 464,
+            "api_calls": 4
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "01:52:16",
+      "ram_mb": 406.49,
+      "duration_ms": 38393.92,
+      "metrics": {
+        "unit_label": "chunk",
+        "units": [
+          {
+            "unit_index": 2,
+            "label": "C2",
+            "tokens_input": 1370,
+            "tokens_output": 773,
+            "api_calls": 4
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "01:52:56",
+      "ram_mb": 416.0,
+      "duration_ms": 39601.76,
+      "metrics": {
+        "unit_label": "chunk",
+        "units": [
+          {
+            "unit_index": 3,
+            "label": "C3",
+            "tokens_input": 1198,
+            "tokens_output": 572,
+            "api_calls": 4
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "01:53:23",
+      "ram_mb": 424.48,
+      "duration_ms": 27065.91,
+      "metrics": {
+        "unit_label": "chunk",
+        "units": [
+          {
+            "unit_index": 4,
+            "label": "C4",
+            "tokens_input": 645,
+            "tokens_output": 190,
+            "api_calls": 4
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "01:55:20",
+      "ram_mb": 433.63,
+      "duration_ms": 117767.79,
+      "metrics": {
+        "unit_label": "chunk",
+        "units": [
+          {
+            "unit_index": 5,
+            "label": "C5",
+            "tokens_input": 12961,
+            "tokens_output": 4469,
+            "api_calls": 4
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "01:56:00",
+      "ram_mb": 443.64,
+      "duration_ms": 39861.5,
+      "metrics": {
+        "unit_label": "chunk",
+        "units": [
+          {
+            "unit_index": 6,
+            "label": "C6",
+            "tokens_input": 1446,
+            "tokens_output": 670,
+            "api_calls": 4
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "01:56:37",
+      "ram_mb": 452.86,
+      "duration_ms": 36310.64,
+      "metrics": {
+        "unit_label": "chunk",
+        "units": [
+          {
+            "unit_index": 7,
+            "label": "C7",
+            "tokens_input": 968,
+            "tokens_output": 640,
+            "api_calls": 4
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "01:57:15",
+      "ram_mb": 461.99,
+      "duration_ms": 38028.81,
+      "metrics": {
+        "unit_label": "chunk",
+        "units": [
+          {
+            "unit_index": 8,
+            "label": "C8",
+            "tokens_input": 1087,
+            "tokens_output": 765,
+            "api_calls": 4
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "01:58:01",
+      "ram_mb": 470.59,
+      "duration_ms": 46324.02,
+      "metrics": {
+        "unit_label": "chunk",
+        "units": [
+          {
+            "unit_index": 9,
+            "label": "C9",
+            "tokens_input": 1279,
+            "tokens_output": 1162,
+            "api_calls": 4
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "01:58:33",
+      "ram_mb": 456.54,
+      "duration_ms": 32001.76,
+      "metrics": {
+        "unit_label": "chunk",
+        "units": [
+          {
+            "unit_index": 10,
+            "label": "C10",
+            "tokens_input": 861,
+            "tokens_output": 484,
+            "api_calls": 4
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "01:59:06",
+      "ram_mb": 465.48,
+      "duration_ms": 33010.95,
+      "metrics": {
+        "unit_label": "chunk",
+        "units": [
+          {
+            "unit_index": 11,
+            "label": "C11",
+            "tokens_input": 953,
+            "tokens_output": 515,
+            "api_calls": 4
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "01:59:39",
+      "ram_mb": 473.91,
+      "duration_ms": 32422.76,
+      "metrics": {
+        "unit_label": "chunk",
+        "units": [
+          {
+            "unit_index": 12,
+            "label": "C12",
+            "tokens_input": 1141,
+            "tokens_output": 491,
+            "api_calls": 4
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "02:00:18",
+      "ram_mb": 484.04,
+      "duration_ms": 39779.3,
+      "metrics": {
+        "unit_label": "chunk",
+        "units": [
+          {
+            "unit_index": 13,
+            "label": "C13",
+            "tokens_input": 1412,
+            "tokens_output": 821,
+            "api_calls": 4
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "03:51:26",
+      "ram_mb": 396.61,
+      "duration_ms": 35920.87,
+      "metrics": {
+        "unit_label": "chunk",
+        "units": [
+          {
+            "unit_index": 1,
+            "label": "C1",
+            "tokens_input": 1150,
+            "tokens_output": 608,
+            "api_calls": 4
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "09:51:11",
+      "ram_mb": 218.16,
+      "duration_ms": 60204.68,
+      "metrics": {
+        "unit_label": "chunk",
+        "units": [
+          {
+            "unit_index": 1,
+            "label": "C1",
+            "tokens_input": 1523,
+            "tokens_output": 474,
+            "api_calls": 4
+          }
+        ]
+      }
+    }
+  ],
+  "detection_worker": [
+    {
+      "timestamp": "03:10:47",
+      "ram_mb": 178.61,
+      "duration_ms": 1373.16
+    },
+    {
+      "timestamp": "03:10:55",
+      "ram_mb": 179.05,
+      "duration_ms": 1241.53
+    },
+    {
+      "timestamp": "03:11:02",
+      "ram_mb": 179.56,
+      "duration_ms": 3107.25
+    },
+    {
+      "timestamp": "03:11:07",
+      "ram_mb": 179.8,
+      "duration_ms": 2793.36
+    },
+    {
+      "timestamp": "03:11:12",
+      "ram_mb": 179.53,
+      "duration_ms": 2692.06
+    },
+    {
+      "timestamp": "03:11:18",
+      "ram_mb": 180.86,
+      "duration_ms": 2673.0
+    },
+    {
+      "timestamp": "03:11:25",
+      "ram_mb": 180.99,
+      "duration_ms": 2689.78
+    }
+  ],
+  "complete_worker": [
+    {
+      "timestamp": "03:10:47",
+      "ram_mb": 533.06,
+      "duration_ms": 707.62
+    },
+    {
+      "timestamp": "03:10:48",
+      "ram_mb": 566.12,
+      "duration_ms": 243.63
+    },
+    {
+      "timestamp": "03:10:48",
+      "ram_mb": 566.71,
+      "duration_ms": 238.71
+    },
+    {
+      "timestamp": "03:10:48",
+      "ram_mb": 569.48,
+      "duration_ms": 225.13
+    },
+    {
+      "timestamp": "03:10:48",
+      "ram_mb": 566.68,
+      "duration_ms": 273.66
+    },
+    {
+      "timestamp": "03:10:49",
+      "ram_mb": 569.5,
+      "duration_ms": 259.54
+    },
+    {
+      "timestamp": "03:10:49",
+      "ram_mb": 570.04,
+      "duration_ms": 227.82
+    },
+    {
+      "timestamp": "03:10:49",
+      "ram_mb": 567.78,
+      "duration_ms": 275.23
+    },
+    {
+      "timestamp": "03:10:49",
+      "ram_mb": 567.83,
+      "duration_ms": 259.75
+    },
+    {
+      "timestamp": "03:10:50",
+      "ram_mb": 570.65,
+      "duration_ms": 386.3
+    },
+    {
+      "timestamp": "03:10:50",
+      "ram_mb": 567.85,
+      "duration_ms": 268.04
+    },
+    {
+      "timestamp": "03:10:50",
+      "ram_mb": 570.66,
+      "duration_ms": 210.04
+    },
+    {
+      "timestamp": "03:10:51",
+      "ram_mb": 570.68,
+      "duration_ms": 213.77
+    },
+    {
+      "timestamp": "03:10:51",
+      "ram_mb": 570.69,
+      "duration_ms": 224.63
+    },
+    {
+      "timestamp": "03:10:51",
+      "ram_mb": 570.69,
+      "duration_ms": 220.38
+    },
+    {
+      "timestamp": "03:10:51",
+      "ram_mb": 570.75,
+      "duration_ms": 275.11
+    },
+    {
+      "timestamp": "03:10:52",
+      "ram_mb": 570.7,
+      "duration_ms": 255.4
+    },
+    {
+      "timestamp": "03:10:52",
+      "ram_mb": 570.71,
+      "duration_ms": 244.17
+    },
+    {
+      "timestamp": "03:10:52",
+      "ram_mb": 570.77,
+      "duration_ms": 206.54
+    },
+    {
+      "timestamp": "03:10:52",
+      "ram_mb": 567.91,
+      "duration_ms": 215.12
+    },
+    {
+      "timestamp": "03:10:56",
+      "ram_mb": 586.8,
+      "duration_ms": 367.34
+    },
+    {
+      "timestamp": "03:10:56",
+      "ram_mb": 587.54,
+      "duration_ms": 191.83
+    },
+    {
+      "timestamp": "03:10:56",
+      "ram_mb": 587.54,
+      "duration_ms": 190.47
+    },
+    {
+      "timestamp": "03:10:56",
+      "ram_mb": 587.54,
+      "duration_ms": 206.64
+    },
+    {
+      "timestamp": "03:10:57",
+      "ram_mb": 587.56,
+      "duration_ms": 253.26
+    },
+    {
+      "timestamp": "03:10:57",
+      "ram_mb": 587.57,
+      "duration_ms": 278.79
+    },
+    {
+      "timestamp": "03:10:57",
+      "ram_mb": 587.57,
+      "duration_ms": 196.07
+    },
+    {
+      "timestamp": "03:10:57",
+      "ram_mb": 587.57,
+      "duration_ms": 176.88
+    },
+    {
+      "timestamp": "03:10:57",
+      "ram_mb": 587.57,
+      "duration_ms": 227.22
+    },
+    {
+      "timestamp": "03:10:58",
+      "ram_mb": 583.71,
+      "duration_ms": 357.76
+    },
+    {
+      "timestamp": "03:10:58",
+      "ram_mb": 586.52,
+      "duration_ms": 233.11
+    },
+    {
+      "timestamp": "03:10:58",
+      "ram_mb": 583.71,
+      "duration_ms": 285.98
+    },
+    {
+      "timestamp": "03:10:59",
+      "ram_mb": 586.58,
+      "duration_ms": 267.23
+    },
+    {
+      "timestamp": "03:10:59",
+      "ram_mb": 586.52,
+      "duration_ms": 354.62
+    },
+    {
+      "timestamp": "03:10:59",
+      "ram_mb": 586.52,
+      "duration_ms": 333.5
+    },
+    {
+      "timestamp": "03:11:00",
+      "ram_mb": 583.71,
+      "duration_ms": 469.94
+    },
+    {
+      "timestamp": "03:11:00",
+      "ram_mb": 584.39,
+      "duration_ms": 426.26
+    },
+    {
+      "timestamp": "03:11:01",
+      "ram_mb": 583.76,
+      "duration_ms": 310.26
+    },
+    {
+      "timestamp": "03:11:01",
+      "ram_mb": 584.25,
+      "duration_ms": 333.43
+    },
+    {
+      "timestamp": "03:11:01",
+      "ram_mb": 584.26,
+      "duration_ms": 457.74
+    },
+    {
+      "timestamp": "03:11:02",
+      "ram_mb": 587.9,
+      "duration_ms": 337.11
+    },
+    {
+      "timestamp": "03:11:02",
+      "ram_mb": 587.76,
+      "duration_ms": 286.19
+    },
+    {
+      "timestamp": "03:11:03",
+      "ram_mb": 584.31,
+      "duration_ms": 274.98
+    },
+    {
+      "timestamp": "03:11:03",
+      "ram_mb": 587.2,
+      "duration_ms": 382.91
+    },
+    {
+      "timestamp": "03:11:04",
+      "ram_mb": 584.39,
+      "duration_ms": 676.6
+    },
+    {
+      "timestamp": "03:11:04",
+      "ram_mb": 584.31,
+      "duration_ms": 297.64
+    },
+    {
+      "timestamp": "03:11:04",
+      "ram_mb": 584.31,
+      "duration_ms": 340.32
+    },
+    {
+      "timestamp": "03:11:05",
+      "ram_mb": 584.31,
+      "duration_ms": 317.49
+    },
+    {
+      "timestamp": "03:11:05",
+      "ram_mb": 584.37,
+      "duration_ms": 444.15
+    },
+    {
+      "timestamp": "03:11:06",
+      "ram_mb": 584.37,
+      "duration_ms": 348.1
+    },
+    {
+      "timestamp": "03:11:06",
+      "ram_mb": 584.33,
+      "duration_ms": 319.85
+    },
+    {
+      "timestamp": "03:11:06",
+      "ram_mb": 584.39,
+      "duration_ms": 281.95
+    },
+    {
+      "timestamp": "03:11:07",
+      "ram_mb": 584.39,
+      "duration_ms": 334.55
+    },
+    {
+      "timestamp": "03:11:07",
+      "ram_mb": 584.33,
+      "duration_ms": 314.5
+    },
+    {
+      "timestamp": "03:11:07",
+      "ram_mb": 584.39,
+      "duration_ms": 232.83
+    },
+    {
+      "timestamp": "03:11:07",
+      "ram_mb": 587.14,
+      "duration_ms": 190.38
+    },
+    {
+      "timestamp": "03:11:08",
+      "ram_mb": 587.16,
+      "duration_ms": 210.23
+    },
+    {
+      "timestamp": "03:11:08",
+      "ram_mb": 587.25,
+      "duration_ms": 169.98
+    },
+    {
+      "timestamp": "03:11:08",
+      "ram_mb": 584.43,
+      "duration_ms": 171.1
+    },
+    {
+      "timestamp": "03:11:08",
+      "ram_mb": 587.25,
+      "duration_ms": 257.49
+    },
+    {
+      "timestamp": "03:11:09",
+      "ram_mb": 588.01,
+      "duration_ms": 307.95
+    },
+    {
+      "timestamp": "03:11:09",
+      "ram_mb": 584.44,
+      "duration_ms": 296.7
+    },
+    {
+      "timestamp": "03:11:09",
+      "ram_mb": 584.46,
+      "duration_ms": 392.2
+    },
+    {
+      "timestamp": "03:11:10",
+      "ram_mb": 584.44,
+      "duration_ms": 345.21
+    },
+    {
+      "timestamp": "03:11:10",
+      "ram_mb": 584.44,
+      "duration_ms": 337.89
+    },
+    {
+      "timestamp": "03:11:10",
+      "ram_mb": 584.45,
+      "duration_ms": 430.23
+    },
+    {
+      "timestamp": "03:11:11",
+      "ram_mb": 584.46,
+      "duration_ms": 351.83
+    },
+    {
+      "timestamp": "03:11:11",
+      "ram_mb": 584.47,
+      "duration_ms": 296.74
+    },
+    {
+      "timestamp": "03:11:11",
+      "ram_mb": 584.48,
+      "duration_ms": 339.53
+    },
+    {
+      "timestamp": "03:11:12",
+      "ram_mb": 584.48,
+      "duration_ms": 311.21
+    },
+    {
+      "timestamp": "03:11:12",
+      "ram_mb": 584.49,
+      "duration_ms": 293.13
+    },
+    {
+      "timestamp": "03:11:12",
+      "ram_mb": 584.49,
+      "duration_ms": 261.88
+    },
+    {
+      "timestamp": "03:11:13",
+      "ram_mb": 584.49,
+      "duration_ms": 214.19
+    },
+    {
+      "timestamp": "03:11:13",
+      "ram_mb": 584.74,
+      "duration_ms": 250.32
+    },
+    {
+      "timestamp": "03:11:13",
+      "ram_mb": 584.6,
+      "duration_ms": 238.73
+    },
+    {
+      "timestamp": "03:11:13",
+      "ram_mb": 587.38,
+      "duration_ms": 241.87
+    },
+    {
+      "timestamp": "03:11:14",
+      "ram_mb": 587.41,
+      "duration_ms": 196.25
+    },
+    {
+      "timestamp": "03:11:14",
+      "ram_mb": 587.42,
+      "duration_ms": 229.81
+    },
+    {
+      "timestamp": "03:11:14",
+      "ram_mb": 587.42,
+      "duration_ms": 231.58
+    },
+    {
+      "timestamp": "03:11:14",
+      "ram_mb": 587.42,
+      "duration_ms": 249.62
+    },
+    {
+      "timestamp": "03:11:15",
+      "ram_mb": 587.32,
+      "duration_ms": 418.76
+    },
+    {
+      "timestamp": "03:11:15",
+      "ram_mb": 584.63,
+      "duration_ms": 348.5
+    },
+    {
+      "timestamp": "03:11:15",
+      "ram_mb": 584.63,
+      "duration_ms": 354.84
+    },
+    {
+      "timestamp": "03:11:16",
+      "ram_mb": 584.64,
+      "duration_ms": 346.27
+    },
+    {
+      "timestamp": "03:11:16",
+      "ram_mb": 584.65,
+      "duration_ms": 385.98
+    },
+    {
+      "timestamp": "03:11:17",
+      "ram_mb": 584.66,
+      "duration_ms": 334.03
+    },
+    {
+      "timestamp": "03:11:17",
+      "ram_mb": 587.48,
+      "duration_ms": 306.23
+    },
+    {
+      "timestamp": "03:11:17",
+      "ram_mb": 584.66,
+      "duration_ms": 287.0
+    },
+    {
+      "timestamp": "03:11:17",
+      "ram_mb": 587.53,
+      "duration_ms": 277.69
+    },
+    {
+      "timestamp": "03:11:18",
+      "ram_mb": 587.48,
+      "duration_ms": 270.9
+    },
+    {
+      "timestamp": "03:11:18",
+      "ram_mb": 587.48,
+      "duration_ms": 218.12
+    },
+    {
+      "timestamp": "03:11:18",
+      "ram_mb": 587.48,
+      "duration_ms": 195.74
+    },
+    {
+      "timestamp": "03:11:18",
+      "ram_mb": 587.48,
+      "duration_ms": 185.28
+    },
+    {
+      "timestamp": "03:11:19",
+      "ram_mb": 587.54,
+      "duration_ms": 219.08
+    },
+    {
+      "timestamp": "03:11:19",
+      "ram_mb": 587.48,
+      "duration_ms": 202.43
+    },
+    {
+      "timestamp": "03:11:19",
+      "ram_mb": 587.43,
+      "duration_ms": 329.26
+    },
+    {
+      "timestamp": "03:11:19",
+      "ram_mb": 587.48,
+      "duration_ms": 255.35
+    },
+    {
+      "timestamp": "03:11:20",
+      "ram_mb": 584.67,
+      "duration_ms": 266.41
+    },
+    {
+      "timestamp": "03:11:20",
+      "ram_mb": 584.67,
+      "duration_ms": 205.18
+    },
+    {
+      "timestamp": "03:11:20",
+      "ram_mb": 587.48,
+      "duration_ms": 189.68
+    },
+    {
+      "timestamp": "03:11:20",
+      "ram_mb": 587.88,
+      "duration_ms": 356.46
+    },
+    {
+      "timestamp": "03:11:21",
+      "ram_mb": 584.7,
+      "duration_ms": 278.98
+    },
+    {
+      "timestamp": "03:11:21",
+      "ram_mb": 584.7,
+      "duration_ms": 435.27
+    },
+    {
+      "timestamp": "03:11:22",
+      "ram_mb": 584.7,
+      "duration_ms": 371.31
+    },
+    {
+      "timestamp": "03:11:22",
+      "ram_mb": 587.56,
+      "duration_ms": 309.74
+    },
+    {
+      "timestamp": "03:11:22",
+      "ram_mb": 584.7,
+      "duration_ms": 347.67
+    },
+    {
+      "timestamp": "03:11:23",
+      "ram_mb": 587.51,
+      "duration_ms": 342.68
+    },
+    {
+      "timestamp": "03:11:23",
+      "ram_mb": 584.75,
+      "duration_ms": 323.71
+    },
+    {
+      "timestamp": "03:11:23",
+      "ram_mb": 584.7,
+      "duration_ms": 384.79
+    },
+    {
+      "timestamp": "03:11:24",
+      "ram_mb": 587.54,
+      "duration_ms": 328.77
+    },
+    {
+      "timestamp": "03:11:24",
+      "ram_mb": 587.54,
+      "duration_ms": 286.43
+    },
+    {
+      "timestamp": "03:11:24",
+      "ram_mb": 584.66,
+      "duration_ms": 344.5
+    },
+    {
+      "timestamp": "03:11:25",
+      "ram_mb": 584.23,
+      "duration_ms": 280.71
+    },
+    {
+      "timestamp": "03:11:25",
+      "ram_mb": 587.48,
+      "duration_ms": 215.61
+    },
+    {
+      "timestamp": "03:11:25",
+      "ram_mb": 584.25,
+      "duration_ms": 196.53
+    },
+    {
+      "timestamp": "03:11:25",
+      "ram_mb": 587.53,
+      "duration_ms": 245.22
+    },
+    {
+      "timestamp": "03:11:26",
+      "ram_mb": 584.65,
+      "duration_ms": 287.56
+    },
+    {
+      "timestamp": "03:11:26",
+      "ram_mb": 584.62,
+      "duration_ms": 232.8
+    },
+    {
+      "timestamp": "03:11:26",
+      "ram_mb": 584.93,
+      "duration_ms": 223.78
+    },
+    {
+      "timestamp": "03:11:27",
+      "ram_mb": 584.68,
+      "duration_ms": 360.38
+    },
+    {
+      "timestamp": "03:11:27",
+      "ram_mb": 587.95,
+      "duration_ms": 336.96
+    },
+    {
+      "timestamp": "03:11:27",
+      "ram_mb": 584.75,
+      "duration_ms": 218.49
+    },
+    {
+      "timestamp": "03:11:27",
+      "ram_mb": 584.59,
+      "duration_ms": 230.25
+    },
+    {
+      "timestamp": "03:11:28",
+      "ram_mb": 587.52,
+      "duration_ms": 216.41
+    },
+    {
+      "timestamp": "03:11:28",
+      "ram_mb": 587.77,
+      "duration_ms": 187.62
+    },
+    {
+      "timestamp": "03:11:28",
+      "ram_mb": 587.57,
+      "duration_ms": 254.51
+    },
+    {
+      "timestamp": "03:11:28",
+      "ram_mb": 587.78,
+      "duration_ms": 196.26
+    },
+    {
+      "timestamp": "03:11:28",
+      "ram_mb": 587.78,
+      "duration_ms": 193.62
+    },
+    {
+      "timestamp": "03:11:29",
+      "ram_mb": 587.46,
+      "duration_ms": 255.87
+    },
+    {
+      "timestamp": "03:11:29",
+      "ram_mb": 587.39,
+      "duration_ms": 241.23
+    },
+    {
+      "timestamp": "03:11:29",
+      "ram_mb": 587.77,
+      "duration_ms": 207.39
+    },
+    {
+      "timestamp": "03:11:29",
+      "ram_mb": 587.78,
+      "duration_ms": 203.6
+    },
+    {
+      "timestamp": "03:11:30",
+      "ram_mb": 587.36,
+      "duration_ms": 191.14
+    },
+    {
+      "timestamp": "03:11:30",
+      "ram_mb": 587.8,
+      "duration_ms": 195.89
+    },
+    {
+      "timestamp": "03:11:30",
+      "ram_mb": 587.74,
+      "duration_ms": 210.19
+    },
+    {
+      "timestamp": "03:11:30",
+      "ram_mb": 587.74,
+      "duration_ms": 214.88
+    },
+    {
+      "timestamp": "03:11:30",
+      "ram_mb": 587.75,
+      "duration_ms": 205.38
+    },
+    {
+      "timestamp": "03:11:31",
+      "ram_mb": 587.8,
+      "duration_ms": 189.13
+    },
+    {
+      "timestamp": "03:11:31",
+      "ram_mb": 587.75,
+      "duration_ms": 173.18
+    },
+    {
+      "timestamp": "03:11:31",
+      "ram_mb": 584.94,
+      "duration_ms": 218.35
+    }
+  ],
+  "written_worker": [
+    {
+      "timestamp": "03:11:21",
+      "ram_mb": 304.01,
+      "duration_ms": 34171.49,
+      "tokens": {
+        "tokens_input": 271,
+        "tokens_output": 76,
+        "api_calls": 1
+      }
+    },
+    {
+      "timestamp": "03:12:01",
+      "ram_mb": 281.75,
+      "duration_ms": 24788.07,
+      "tokens": {
+        "tokens_input": 271,
+        "tokens_output": 69,
+        "api_calls": 1
+      }
+    },
+    {
+      "timestamp": "03:12:58",
+      "ram_mb": 272.27,
+      "duration_ms": 42176.57,
+      "tokens": {
+        "tokens_input": 271,
+        "tokens_output": 74,
+        "api_calls": 1
+      }
+    },
+    {
+      "timestamp": "03:15:16",
+      "ram_mb": 273.1,
+      "duration_ms": 123369.39,
+      "tokens": {
+        "tokens_input": 271,
+        "tokens_output": 80,
+        "api_calls": 1
+      }
+    },
+    {
+      "timestamp": "03:15:55",
+      "ram_mb": 274.03,
+      "duration_ms": 24078.53,
+      "tokens": {
+        "tokens_input": 271,
+        "tokens_output": 76,
+        "api_calls": 1
+      }
+    },
+    {
+      "timestamp": "03:16:30",
+      "ram_mb": 274.11,
+      "duration_ms": 19331.15,
+      "tokens": {
+        "tokens_input": 271,
+        "tokens_output": 34,
+        "api_calls": 1
+      }
+    },
+    {
+      "timestamp": "03:17:29",
+      "ram_mb": 196.97,
+      "duration_ms": 43836.14,
+      "tokens": {
+        "tokens_input": 271,
+        "tokens_output": 101,
+        "api_calls": 1
+      }
+    },
+    {
+      "timestamp": "03:18:13",
+      "ram_mb": 197.46,
+      "duration_ms": 29522.93,
+      "tokens": {
+        "tokens_input": 271,
+        "tokens_output": 69,
+        "api_calls": 1
+      }
+    },
+    {
+      "timestamp": "03:19:06",
+      "ram_mb": 198.49,
+      "duration_ms": 37866.28,
+      "tokens": {
+        "tokens_input": 271,
+        "tokens_output": 85,
+        "api_calls": 1
+      }
+    },
+    {
+      "timestamp": "03:20:08",
+      "ram_mb": 199.11,
+      "duration_ms": 47188.24,
+      "tokens": {
+        "tokens_input": 271,
+        "tokens_output": 101,
+        "api_calls": 1
+      }
+    },
+    {
+      "timestamp": "03:20:51",
+      "ram_mb": 199.19,
+      "duration_ms": 27154.46,
+      "tokens": {
+        "tokens_input": 271,
+        "tokens_output": 71,
+        "api_calls": 1
+      }
+    },
+    {
+      "timestamp": "03:21:31",
+      "ram_mb": 199.21,
+      "duration_ms": 25249.53,
+      "tokens": {
+        "tokens_input": 271,
+        "tokens_output": 92,
+        "api_calls": 1
+      }
+    },
+    {
+      "timestamp": "03:22:05",
+      "ram_mb": 199.19,
+      "duration_ms": 19314.3,
+      "tokens": {
+        "tokens_input": 271,
+        "tokens_output": 27,
+        "api_calls": 1
+      }
+    },
+    {
+      "timestamp": "03:22:45",
+      "ram_mb": 82.8,
+      "duration_ms": 24879.16,
+      "tokens": {
+        "tokens_input": 271,
+        "tokens_output": 44,
+        "api_calls": 1
+      }
+    },
+    {
+      "timestamp": "03:23:30",
+      "ram_mb": 83.57,
+      "duration_ms": 29689.94,
+      "tokens": {
+        "tokens_input": 271,
+        "tokens_output": 40,
+        "api_calls": 1
+      }
+    },
+    {
+      "timestamp": "03:24:15",
+      "ram_mb": 83.66,
+      "duration_ms": 29831.31,
+      "tokens": {
+        "tokens_input": 271,
+        "tokens_output": 71,
+        "api_calls": 1
+      }
+    },
+    {
+      "timestamp": "03:24:59",
+      "ram_mb": 84.05,
+      "duration_ms": 29702.81,
+      "tokens": {
+        "tokens_input": 271,
+        "tokens_output": 85,
+        "api_calls": 1
+      }
+    },
+    {
+      "timestamp": "03:25:42",
+      "ram_mb": 84.07,
+      "duration_ms": 27401.74,
+      "tokens": {
+        "tokens_input": 271,
+        "tokens_output": 59,
+        "api_calls": 1
+      }
+    },
+    {
+      "timestamp": "03:26:53",
+      "ram_mb": 84.12,
+      "duration_ms": 55865.42,
+      "tokens": {
+        "tokens_input": 271,
+        "tokens_output": 77,
+        "api_calls": 1
+      }
+    },
+    {
+      "timestamp": "03:27:37",
+      "ram_mb": 80.65,
+      "duration_ms": 29598.26,
+      "tokens": {
+        "tokens_input": 271,
+        "tokens_output": 50,
+        "api_calls": 1
+      }
+    },
+    {
+      "timestamp": "03:28:40",
+      "ram_mb": 80.72,
+      "duration_ms": 47539.44,
+      "tokens": {
+        "tokens_input": 271,
+        "tokens_output": 72,
+        "api_calls": 1
+      }
+    }
+  ],
+  "Grading_worker": [
+    {
+      "timestamp": "03:16:48",
+      "ram_mb": 205.18,
+      "duration_ms": 17795.52,
+      "tokens": {
+        "usage_written": {
+          "unit_label": "question",
+          "units": [
+            {
+              "unit_index": 1,
+              "label": "answer1",
+              "tokens_input": 336,
+              "tokens_output": 8,
+              "api_calls": 1
+            },
+            {
+              "unit_index": 2,
+              "label": "answer2",
+              "tokens_input": 324,
+              "tokens_output": 8,
+              "api_calls": 1
+            },
+            {
+              "unit_index": 3,
+              "label": "answer3",
+              "tokens_input": 287,
+              "tokens_output": 10,
+              "api_calls": 1
+            }
+          ]
+        },
+        "usage_complete": {
+          "unit_label": "complete",
+          "unit": {
+            "unit_index": 1,
+            "label": "Sheet",
+            "tokens_input": 548,
+            "tokens_output": 114,
+            "api_calls": 1
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "03:19:23",
+      "ram_mb": 177.99,
+      "duration_ms": 17100.71,
+      "tokens": {
+        "usage_written": {
+          "unit_label": "question",
+          "units": [
+            {
+              "unit_index": 1,
+              "label": "answer1",
+              "tokens_input": 357,
+              "tokens_output": 8,
+              "api_calls": 1
+            },
+            {
+              "unit_index": 2,
+              "label": "answer2",
+              "tokens_input": 317,
+              "tokens_output": 8,
+              "api_calls": 1
+            },
+            {
+              "unit_index": 3,
+              "label": "answer3",
+              "tokens_input": 338,
+              "tokens_output": 8,
+              "api_calls": 1
+            }
+          ]
+        },
+        "usage_complete": {
+          "unit_label": "complete",
+          "unit": {
+            "unit_index": 1,
+            "label": "Sheet",
+            "tokens_input": 548,
+            "tokens_output": 114,
+            "api_calls": 1
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "03:21:48",
+      "ram_mb": 178.43,
+      "duration_ms": 17139.07,
+      "tokens": {
+        "usage_written": {
+          "unit_label": "question",
+          "units": [
+            {
+              "unit_index": 1,
+              "label": "answer1",
+              "tokens_input": 357,
+              "tokens_output": 8,
+              "api_calls": 1
+            },
+            {
+              "unit_index": 2,
+              "label": "answer2",
+              "tokens_input": 319,
+              "tokens_output": 9,
+              "api_calls": 1
+            },
+            {
+              "unit_index": 3,
+              "label": "answer3",
+              "tokens_input": 345,
+              "tokens_output": 8,
+              "api_calls": 1
+            }
+          ]
+        },
+        "usage_complete": {
+          "unit_label": "complete",
+          "unit": {
+            "unit_index": 1,
+            "label": "Sheet",
+            "tokens_input": 548,
+            "tokens_output": 114,
+            "api_calls": 1
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "03:23:47",
+      "ram_mb": 138.95,
+      "duration_ms": 17099.97,
+      "tokens": {
+        "usage_written": {
+          "unit_label": "question",
+          "units": [
+            {
+              "unit_index": 1,
+              "label": "answer1",
+              "tokens_input": 283,
+              "tokens_output": 8,
+              "api_calls": 1
+            },
+            {
+              "unit_index": 2,
+              "label": "answer2",
+              "tokens_input": 291,
+              "tokens_output": 8,
+              "api_calls": 1
+            },
+            {
+              "unit_index": 3,
+              "label": "answer3",
+              "tokens_input": 293,
+              "tokens_output": 8,
+              "api_calls": 1
+            }
+          ]
+        },
+        "usage_complete": {
+          "unit_label": "complete",
+          "unit": {
+            "unit_index": 1,
+            "label": "Sheet",
+            "tokens_input": 548,
+            "tokens_output": 114,
+            "api_calls": 1
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "03:25:59",
+      "ram_mb": 139.0,
+      "duration_ms": 17177.61,
+      "tokens": {
+        "usage_written": {
+          "unit_label": "question",
+          "units": [
+            {
+              "unit_index": 1,
+              "label": "answer1",
+              "tokens_input": 328,
+              "tokens_output": 8,
+              "api_calls": 1
+            },
+            {
+              "unit_index": 2,
+              "label": "answer2",
+              "tokens_input": 333,
+              "tokens_output": 8,
+              "api_calls": 1
+            },
+            {
+              "unit_index": 3,
+              "label": "answer3",
+              "tokens_input": 312,
+              "tokens_output": 8,
+              "api_calls": 1
+            }
+          ]
+        },
+        "usage_complete": {
+          "unit_label": "complete",
+          "unit": {
+            "unit_index": 1,
+            "label": "Sheet",
+            "tokens_input": 548,
+            "tokens_output": 114,
+            "api_calls": 1
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "03:28:57",
+      "ram_mb": 139.06,
+      "duration_ms": 17248.76,
+      "tokens": {
+        "usage_written": {
+          "unit_label": "question",
+          "units": [
+            {
+              "unit_index": 1,
+              "label": "answer1",
+              "tokens_input": 333,
+              "tokens_output": 8,
+              "api_calls": 1
+            },
+            {
+              "unit_index": 2,
+              "label": "answer2",
+              "tokens_input": 297,
+              "tokens_output": 8,
+              "api_calls": 1
+            },
+            {
+              "unit_index": 3,
+              "label": "answer3",
+              "tokens_input": 325,
+              "tokens_output": 8,
+              "api_calls": 1
+            }
+          ]
+        },
+        "usage_complete": {
+          "unit_label": "complete",
+          "unit": {
+            "unit_index": 1,
+            "label": "Sheet",
+            "tokens_input": 549,
+            "tokens_output": 114,
+            "api_calls": 1
+          }
+        }
+      }
+    }
+  ],
+  "recognition": {
+    "mcq": [
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      },
+      {
+        "predicted": "B",
+        "ground_truth": "B"
+      },
+      {
+        "predicted": "D",
+        "ground_truth": "D"
+      },
+      {
+        "predicted": "A",
+        "ground_truth": "A"
+      },
+      {
+        "predicted": "C",
+        "ground_truth": "C"
+      }
+    ],
+    "choices": [
+      {
+        "ground_truth": "scalar",
+        "predicted": "scalar "
+      },
+      {
+        "ground_truth": "matrix",
+        "predicted": "matteix "
+      },
+      {
+        "ground_truth": "determinant",
+        "predicted": "determinant "
+      },
+      {
+        "ground_truth": "null space",
+        "predicted": "null space "
+      },
+      {
+        "ground_truth": "transpose",
+        "predicted": "transpose "
+      },
+      {
+        "ground_truth": "eigenvector",
+        "predicted": "egenvector "
+      },
+      {
+        "ground_truth": "eigenvalue",
+        "predicted": "eigenvalue "
+      },
+      {
+        "ground_truth": "rank",
+        "predicted": "iank "
+      },
+      {
+        "ground_truth": "span",
+        "predicted": "span "
+      },
+      {
+        "ground_truth": "basis",
+        "predicted": "basis "
+      },
+      {
+        "ground_truth": "identity matrix",
+        "predicted": "identity mattrix "
+      },
+      {
+        "ground_truth": "dot product",
+        "predicted": "dot product "
+      },
+      {
+        "ground_truth": "cross product",
+        "predicted": "czoss product "
+      },
+      {
+        "ground_truth": "linear independence",
+        "predicted": "linear independence "
+      },
+      {
+        "ground_truth": "inverse matrix",
+        "predicted": "inverse matux "
+      },
+      {
+        "ground_truth": "orthogonality",
+        "predicted": "orthogonality "
+      },
+      {
+        "ground_truth": "diagonalization",
+        "predicted": "diagonalization "
+      },
+      {
+        "ground_truth": "singular value",
+        "predicted": "singular value "
+      },
+      {
+        "ground_truth": "vector space",
+        "predicted": "vector space "
+      },
+      {
+        "ground_truth": "linear transformation",
+        "predicted": "linear transformation "
+      },
+      {
+        "ground_truth": "scalar",
+        "predicted": "scalar "
+      },
+      {
+        "ground_truth": "vector space",
+        "predicted": "linear transformation "
+      },
+      {
+        "ground_truth": "linear transformation",
+        "predicted": "span "
+      },
+      {
+        "ground_truth": "span",
+        "predicted": "determinant "
+      },
+      {
+        "ground_truth": "determinant",
+        "predicted": "egenvector "
+      },
+      {
+        "ground_truth": "eigenvector",
+        "predicted": "transpose "
+      },
+      {
+        "ground_truth": "transpose",
+        "predicted": "iank "
+      },
+      {
+        "ground_truth": "rank",
+        "predicted": "basis "
+      },
+      {
+        "ground_truth": "basis",
+        "predicted": "null space "
+      },
+      {
+        "ground_truth": "null space",
+        "predicted": "linear independence "
+      },
+      {
+        "ground_truth": "linear independence",
+        "predicted": "vector space "
+      },
+      {
+        "ground_truth": "dot product",
+        "predicted": "dot product "
+      },
+      {
+        "ground_truth": "cross product",
+        "predicted": "czoss product "
+      },
+      {
+        "ground_truth": "orthogonality",
+        "predicted": "orthogonality "
+      },
+      {
+        "ground_truth": "inverse matrix",
+        "predicted": "inverse matux "
+      },
+      {
+        "ground_truth": "identity matrix",
+        "predicted": "identity matrix "
+      },
+      {
+        "ground_truth": "diagonalization",
+        "predicted": "diagonalization "
+      },
+      {
+        "ground_truth": "singular value",
+        "predicted": "singular value "
+      },
+      {
+        "ground_truth": "eigenvalue",
+        "predicted": "eigenvalue "
+      },
+      {
+        "ground_truth": "matrix",
+        "predicted": "matrix "
+      },
+      {
+        "ground_truth": "scalar",
+        "predicted": "scalar "
+      },
+      {
+        "ground_truth": "linear transformation",
+        "predicted": "determinant "
+      },
+      {
+        "ground_truth": "determinant",
+        "predicted": "linear transformation "
+      },
+      {
+        "ground_truth": "transpose",
+        "predicted": "transpose "
+      },
+      {
+        "ground_truth": "eigenvalue",
+        "predicted": "eigenvalue "
+      },
+      {
+        "ground_truth": "eigenvector",
+        "predicted": "egenvector "
+      },
+      {
+        "ground_truth": "rank",
+        "predicted": "irank "
+      },
+      {
+        "ground_truth": "null space",
+        "predicted": "null space "
+      },
+      {
+        "ground_truth": "basis",
+        "predicted": "basis "
+      },
+      {
+        "ground_truth": "span",
+        "predicted": "span "
+      },
+      {
+        "ground_truth": "linear independence",
+        "predicted": "linear independence "
+      },
+      {
+        "ground_truth": "dot product",
+        "predicted": "dot product "
+      },
+      {
+        "ground_truth": "cross product",
+        "predicted": "czoss product "
+      },
+      {
+        "ground_truth": "identity matrix",
+        "predicted": "identity mattzx "
+      },
+      {
+        "ground_truth": "orthogonality",
+        "predicted": "orthogunality "
+      },
+      {
+        "ground_truth": "inverse matrix",
+        "predicted": "inverse mattzix "
+      },
+      {
+        "ground_truth": "diagonalization",
+        "predicted": "diagonalization "
+      },
+      {
+        "ground_truth": "singular value",
+        "predicted": "singular value "
+      },
+      {
+        "ground_truth": "vector space",
+        "predicted": "vector space "
+      },
+      {
+        "ground_truth": "matrix",
+        "predicted": "matrix "
+      },
+      {
+        "ground_truth": "determinant",
+        "predicted": "determinant "
+      },
+      {
+        "ground_truth": "matrix",
+        "predicted": "matteix "
+      },
+      {
+        "ground_truth": "scalar",
+        "predicted": "scalar "
+      },
+      {
+        "ground_truth": "transpose",
+        "predicted": "transpose "
+      },
+      {
+        "ground_truth": "eigenvalue",
+        "predicted": "eigenvalue "
+      },
+      {
+        "ground_truth": "eigenvector",
+        "predicted": "egenvector "
+      },
+      {
+        "ground_truth": "rank",
+        "predicted": "irank "
+      },
+      {
+        "ground_truth": "null space",
+        "predicted": "null space "
+      },
+      {
+        "ground_truth": "basis",
+        "predicted": "basis "
+      },
+      {
+        "ground_truth": "span",
+        "predicted": "span "
+      },
+      {
+        "ground_truth": "linear independence",
+        "predicted": "linear independence "
+      },
+      {
+        "ground_truth": "dot product",
+        "predicted": "dot product "
+      },
+      {
+        "ground_truth": "cross product",
+        "predicted": "czoss product "
+      },
+      {
+        "ground_truth": "identity matrix",
+        "predicted": "identity mattzx "
+      },
+      {
+        "ground_truth": "inverse matrix",
+        "predicted": "inverse matux "
+      },
+      {
+        "ground_truth": "orthogonality",
+        "predicted": "orthogonality "
+      },
+      {
+        "ground_truth": "diagonalization",
+        "predicted": "diagonalization "
+      },
+      {
+        "ground_truth": "linear transformation",
+        "predicted": "linear transformation "
+      },
+      {
+        "ground_truth": "vector space",
+        "predicted": "vector space "
+      },
+      {
+        "ground_truth": "singular value",
+        "predicted": "singular value "
+      },
+      {
+        "ground_truth": "scalar",
+        "predicted": "scalar "
+      },
+      {
+        "ground_truth": "matrix",
+        "predicted": "matteix "
+      },
+      {
+        "ground_truth": "determinant",
+        "predicted": "determinant "
+      },
+      {
+        "ground_truth": "transpose",
+        "predicted": "transpose "
+      },
+      {
+        "ground_truth": "eigenvalue",
+        "predicted": "eigenvalue "
+      },
+      {
+        "ground_truth": "eigenvector",
+        "predicted": "egenvector "
+      },
+      {
+        "ground_truth": "rank",
+        "predicted": "irank "
+      },
+      {
+        "ground_truth": "null space",
+        "predicted": "null space "
+      },
+      {
+        "ground_truth": "linear independence",
+        "predicted": "linear independence "
+      },
+      {
+        "ground_truth": "span",
+        "predicted": "span "
+      },
+      {
+        "ground_truth": "basis",
+        "predicted": "basis "
+      },
+      {
+        "ground_truth": "dot product",
+        "predicted": "dot product "
+      },
+      {
+        "ground_truth": "cross product",
+        "predicted": "czoss product "
+      },
+      {
+        "ground_truth": "identity matrix",
+        "predicted": "identity mattzx "
+      },
+      {
+        "ground_truth": "inverse matrix",
+        "predicted": "inverse matux "
+      },
+      {
+        "ground_truth": "orthogonality",
+        "predicted": "orthogonality "
+      },
+      {
+        "ground_truth": "diagonalization",
+        "predicted": "diagonalization "
+      },
+      {
+        "ground_truth": "singular value",
+        "predicted": "singular value "
+      },
+      {
+        "ground_truth": "vector space",
+        "predicted": "vector space "
+      },
+      {
+        "ground_truth": "linear transformation",
+        "predicted": "linear transformation "
+      },
+      {
+        "ground_truth": "scalar",
+        "predicted": "scalar "
+      },
+      {
+        "ground_truth": "matrix",
+        "predicted": "matteix "
+      },
+      {
+        "ground_truth": "determinant",
+        "predicted": "determinant "
+      },
+      {
+        "ground_truth": "transpose",
+        "predicted": "transpose "
+      },
+      {
+        "ground_truth": "eigenvalue",
+        "predicted": "eigenvalue "
+      },
+      {
+        "ground_truth": "eigenvector",
+        "predicted": "egenvector "
+      },
+      {
+        "ground_truth": "rank",
+        "predicted": "irank "
+      },
+      {
+        "ground_truth": "null space",
+        "predicted": "null space "
+      },
+      {
+        "ground_truth": "basis",
+        "predicted": "basis "
+      },
+      {
+        "ground_truth": "span",
+        "predicted": "span "
+      },
+      {
+        "ground_truth": "linear independence",
+        "predicted": "linear independence "
+      },
+      {
+        "ground_truth": "dot product",
+        "predicted": "dot product "
+      },
+      {
+        "ground_truth": "cross product",
+        "predicted": "czoss product "
+      },
+      {
+        "ground_truth": "identity matrix",
+        "predicted": "identity mattzx "
+      },
+      {
+        "ground_truth": "inverse matrix",
+        "predicted": "inverse matux "
+      },
+      {
+        "ground_truth": "orthogonality",
+        "predicted": "orthogonality "
+      },
+      {
+        "ground_truth": "diagonalization",
+        "predicted": "diagonalization "
+      },
+      {
+        "ground_truth": "singular value",
+        "predicted": "singular value "
+      },
+      {
+        "ground_truth": "vector space",
+        "predicted": "vector space "
+      },
+      {
+        "ground_truth": "linear transformation",
+        "predicted": "linear transformation "
+      },
+      {
+        "ground_truth": "determinant",
+        "predicted": "determinant "
+      },
+      {
+        "ground_truth": "matrix",
+        "predicted": "transpose "
+      },
+      {
+        "ground_truth": "scalar",
+        "predicted": "eigenvalue "
+      },
+      {
+        "ground_truth": "transpose",
+        "predicted": "egenvector "
+      },
+      {
+        "ground_truth": "eigenvalue",
+        "predicted": "irank "
+      },
+      {
+        "ground_truth": "eigenvector",
+        "predicted": "null space "
+      },
+      {
+        "ground_truth": "rank",
+        "predicted": "basis "
+      },
+      {
+        "ground_truth": "null space",
+        "predicted": "span "
+      },
+      {
+        "ground_truth": "basis",
+        "predicted": "linear independence "
+      },
+      {
+        "ground_truth": "span",
+        "predicted": "dot product "
+      },
+      {
+        "ground_truth": "linear independence",
+        "predicted": "czoss product "
+      },
+      {
+        "ground_truth": "dot product",
+        "predicted": "identity mattzx "
+      },
+      {
+        "ground_truth": "cross product",
+        "predicted": "inverse matux "
+      },
+      {
+        "ground_truth": "identity matrix",
+        "predicted": "orthogonality "
+      },
+      {
+        "ground_truth": "inverse matrix",
+        "predicted": "diagonalization "
+      },
+      {
+        "ground_truth": "orthogonality",
+        "predicted": "singular value "
+      },
+      {
+        "ground_truth": "diagonalization",
+        "predicted": "vector space "
+      },
+      {
+        "ground_truth": "singular value",
+        "predicted": "linear transformation "
+      },
+      {
+        "ground_truth": "vector space",
+        "predicted": "matteix "
+      },
+      {
+        "ground_truth": "linear transformation",
+        "predicted": "scalar "
+      },
+      {
+        "ground_truth": "scalar",
+        "predicted": "scalar "
+      },
+      {
+        "ground_truth": "matrix",
+        "predicted": "matteix "
+      },
+      {
+        "ground_truth": "determinant",
+        "predicted": "determinant "
+      },
+      {
+        "ground_truth": "transpose",
+        "predicted": "transpose "
+      },
+      {
+        "ground_truth": "eigenvalue",
+        "predicted": "eigenvalue "
+      },
+      {
+        "ground_truth": "eigenvector",
+        "predicted": "egenvector "
+      },
+      {
+        "ground_truth": "null space",
+        "predicted": "null space "
+      },
+      {
+        "ground_truth": "rank",
+        "predicted": "iank "
+      },
+      {
+        "ground_truth": "basis",
+        "predicted": "basis "
+      },
+      {
+        "ground_truth": "span",
+        "predicted": "span "
+      },
+      {
+        "ground_truth": "linear independence",
+        "predicted": "linear independence "
+      },
+      {
+        "ground_truth": "dot product",
+        "predicted": "dot product "
+      },
+      {
+        "ground_truth": "cross product",
+        "predicted": "czoss product "
+      },
+      {
+        "ground_truth": "identity matrix",
+        "predicted": "identity mattzx "
+      },
+      {
+        "ground_truth": "inverse matrix",
+        "predicted": "inverse matux "
+      },
+      {
+        "ground_truth": "orthogonality",
+        "predicted": "orthogonality "
+      },
+      {
+        "ground_truth": "diagonalization",
+        "predicted": "diagonalization "
+      },
+      {
+        "ground_truth": "singular value",
+        "predicted": "singular value "
+      },
+      {
+        "ground_truth": "vector space",
+        "predicted": "vector space "
+      },
+      {
+        "ground_truth": "linear transformation",
+        "predicted": "linear transformation "
+      },
+      {
+        "ground_truth": "scalar",
+        "predicted": "scalar "
+      },
+      {
+        "ground_truth": "transpose",
+        "predicted": "transpose "
+      },
+      {
+        "ground_truth": "determinant",
+        "predicted": "determinant "
+      },
+      {
+        "ground_truth": "matrix",
+        "predicted": "matrix "
+      },
+      {
+        "ground_truth": "eigenvalue",
+        "predicted": "eigenvalue "
+      },
+      {
+        "ground_truth": "eigenvector",
+        "predicted": "egenvector "
+      },
+      {
+        "ground_truth": "rank",
+        "predicted": "irank "
+      },
+      {
+        "ground_truth": "null space",
+        "predicted": "null space "
+      },
+      {
+        "ground_truth": "basis",
+        "predicted": "basis "
+      },
+      {
+        "ground_truth": "span",
+        "predicted": "span "
+      },
+      {
+        "ground_truth": "linear independence",
+        "predicted": "linear independence "
+      },
+      {
+        "ground_truth": "dot product",
+        "predicted": "dot product "
+      },
+      {
+        "ground_truth": "cross product",
+        "predicted": "czoss product "
+      },
+      {
+        "ground_truth": "inverse matrix",
+        "predicted": "inverse mattzix "
+      },
+      {
+        "ground_truth": "identity matrix",
+        "predicted": "identity matzix "
+      },
+      {
+        "ground_truth": "orthogonality",
+        "predicted": "orthogonality "
+      },
+      {
+        "ground_truth": "diagonalization",
+        "predicted": "diagonalization "
+      },
+      {
+        "ground_truth": "singular value",
+        "predicted": "singular value "
+      },
+      {
+        "ground_truth": "linear transformation",
+        "predicted": "linear transformation "
+      },
+      {
+        "ground_truth": "vector space",
+        "predicted": "vector space "
+      },
+      {
+        "ground_truth": "scalar",
+        "predicted": "scalar "
+      },
+      {
+        "ground_truth": "matrix",
+        "predicted": "matteix "
+      },
+      {
+        "ground_truth": "determinant",
+        "predicted": "determinant "
+      },
+      {
+        "ground_truth": "transpose",
+        "predicted": "transpose "
+      },
+      {
+        "ground_truth": "eigenvalue",
+        "predicted": "eigenvalue "
+      },
+      {
+        "ground_truth": "eigenvector",
+        "predicted": "egenvector "
+      },
+      {
+        "ground_truth": "rank",
+        "predicted": "irank "
+      },
+      {
+        "ground_truth": "null space",
+        "predicted": "null space "
+      },
+      {
+        "ground_truth": "basis",
+        "predicted": "basis "
+      },
+      {
+        "ground_truth": "span",
+        "predicted": "span "
+      },
+      {
+        "ground_truth": "linear independence",
+        "predicted": "linear independence "
+      },
+      {
+        "ground_truth": "dot product",
+        "predicted": "dot product "
+      },
+      {
+        "ground_truth": "cross product",
+        "predicted": "czoss product "
+      },
+      {
+        "ground_truth": "identity matrix",
+        "predicted": "identity mattzx "
+      },
+      {
+        "ground_truth": "inverse matrix",
+        "predicted": "inverse matux "
+      },
+      {
+        "ground_truth": "orthogonality",
+        "predicted": "orthogonality "
+      },
+      {
+        "ground_truth": "diagonalization",
+        "predicted": "diagonalization "
+      },
+      {
+        "ground_truth": "singular value",
+        "predicted": "singular value "
+      },
+      {
+        "ground_truth": "vector space",
+        "predicted": "vector space "
+      },
+      {
+        "ground_truth": "linear transformation",
+        "predicted": "linear transformation "
+      },
+      {
+        "ground_truth": "scalar",
+        "predicted": "scalar "
+      },
+      {
+        "ground_truth": "matrix",
+        "predicted": "matteix "
+      },
+      {
+        "ground_truth": "determinant",
+        "predicted": "determinant "
+      },
+      {
+        "ground_truth": "transpose",
+        "predicted": "transpose "
+      },
+      {
+        "ground_truth": "eigenvalue",
+        "predicted": "eigenvalue "
+      },
+      {
+        "ground_truth": "eigenvector",
+        "predicted": "egenvector "
+      },
+      {
+        "ground_truth": "rank",
+        "predicted": "irank "
+      },
+      {
+        "ground_truth": "null space",
+        "predicted": "null space "
+      },
+      {
+        "ground_truth": "basis",
+        "predicted": "basis "
+      },
+      {
+        "ground_truth": "span",
+        "predicted": "span "
+      },
+      {
+        "ground_truth": "linear independence",
+        "predicted": "linear independence "
+      },
+      {
+        "ground_truth": "dot product",
+        "predicted": "dot product "
+      },
+      {
+        "ground_truth": "cross product",
+        "predicted": "czoss product "
+      },
+      {
+        "ground_truth": "identity matrix",
+        "predicted": "identity mattzx "
+      },
+      {
+        "ground_truth": "inverse matrix",
+        "predicted": "inverse matux "
+      },
+      {
+        "ground_truth": "orthogonality",
+        "predicted": "orthogonality "
+      },
+      {
+        "ground_truth": "diagonalization",
+        "predicted": "diagonalization "
+      },
+      {
+        "ground_truth": "singular value",
+        "predicted": "singular value "
+      },
+      {
+        "ground_truth": "vector space",
+        "predicted": "vector space "
+      },
+      {
+        "ground_truth": "linear transformation",
+        "predicted": "linear transformation "
+      }
+    ]
+  },
+  "grading": {
+    "mcq": {
+      "ground_truth": [
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0,
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+      ],
+      "predicted": [
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0,
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+      ]
+    },
+    "choices": {
+      "ground_truth": [
+        1.0, 0.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0,
+        0.0, 0.0, 1.0, 1.0, 1.0, 0.0, 0.0, 1.0, 0.0, 1.0, 1.0, 1.0, 1.0, 1.0,
+        1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0.0, 1.0, 0.0, 1.0, 1.0,
+        1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0,
+        1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0,
+        1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0,
+        1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0,
+        1.0, 1.0, 1.0, 0.0, 1.0, 0.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0,
+        1.0, 0.0, 0.0, 1.0, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 1.0, 1.0, 1.0,
+        1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0,
+        1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0.0, 1.0, 0.0, 1.0, 1.0, 1.0,
+        1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0,
+        1.0, 0.0, 1.0, 1.0, 1.0, 0.0, 1.0, 0.0, 1.0, 1.0, 0.0, 0.0, 1.0, 1.0,
+        1.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 1.0, 0.0, 1.0, 1.0,
+        1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0.0, 0.0, 1.0, 1.0,
+        1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0
+      ],
+      "predicted": [
+        1.0, 0.0, 0.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0,
+        0.0, 0.0, 1.0, 1.0, 1.0, 0.0, 0.0, 1.0, 0.0, 1.0, 1.0, 1.0, 1.0, 1.0,
+        1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0.0, 1.0, 0.0, 1.0, 1.0,
+        1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0,
+        1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0,
+        1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0,
+        1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0,
+        1.0, 1.0, 1.0, 0.0, 1.0, 0.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0,
+        1.0, 0.0, 0.0, 1.0, 1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0,
+        0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0,
+        1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0.0, 1.0, 0.0, 1.0, 1.0, 1.0,
+        1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0,
+        0.0, 0.0, 0.0, 1.0, 1.0, 0.0, 1.0, 0.0, 1.0, 1.0, 0.0, 0.0, 1.0, 1.0,
+        1.0, 0.0, 0.0, 1.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0, 1.0, 0.0, 1.0, 1.0,
+        1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0.0, 0.0, 1.0, 1.0,
+        1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0
+      ]
+    },
+    "essays": {
+      "ground_truth": [
+        7.0, 10.0, 9.0, 10.0, 4.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0,
+        10.0, 10.0, 10.0, 2.0, 10.0, 10.0, 10.0, 9.0, 10.0, 10.0, 10.0, 9.0,
+        1.0, 1.0, 2.0, 9.0, 1.0, 1.0, 10.0, 10.0, 4.0
+      ],
+      "predicted": [
+        8.0, 10.0, 10.0, 10.0, 2.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0,
+        10.0, 10.0, 10.0, 0.0, 10.0, 10.0, 10.0, 10.0, 5.0, 10.0, 10.0, 10.0,
+        0.0, 0.0, 4.0, 10.0, 0.0, 1.0, 10.0, 10.0, 3.0
+      ]
+    }
+  }
+}

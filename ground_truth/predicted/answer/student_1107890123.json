@@ -1,0 +1,69 @@
+{
+    "mcq": [
+        "B",
+        "A",
+        "C",
+        "D",
+        "B",
+        "A",
+        "C",
+        "B",
+        "D",
+        "A",
+        "C",
+        "B",
+        "A",
+        "D",
+        "C",
+        "B",
+        "A",
+        "D",
+        "C",
+        "B",
+        "A",
+        "C",
+        "D",
+        "B",
+        "A",
+        "C",
+        "B",
+        "D",
+        "A",
+        "C"
+    ],
+    "choices": [
+        "scalar ",
+        "matteix ",
+        "determinant ",
+        "transpose ",
+        "eigenvalue ",
+        "egenvector ",
+        "irank ",
+        "null space ",
+        "basis ",
+        "span ",
+        "linear independence ",
+        "dot product ",
+        "czoss product ",
+        "identity mattzx ",
+        "inverse matux ",
+        "orthogonality ",
+        "diagonalization ",
+        "singular value ",
+        "vector space ",
+        "linear transformation "
+    ],
+    "essays": [
+        [
+            "$$\\text{MATRIX MULTIPLICATION:}$$\n$$\\begin{bmatrix} 1 & 2 \\\\ 3 & 4 \\end{bmatrix} \\times \\begin{bmatrix} 5 & 6 \\\\ 7 & 8 \\end{bmatrix} = \\begin{bmatrix} 19 & 22 \\\\ 43 & 50 \\end{bmatrix}$$\n$$\\text{EACH ENTRY IS COMPUTED AS A DOT PRODUCT OF A ROW FROM THE LEFT}$$\n$$\\text{MATRIX AND A COLUMN FROM THE RIGHT MATRIX, E.G. } 19 = 1 \\times 5 + 2 \\times 7 \\text{ AND } 22$$\n$$= 1 \\times 6 + 2 \\times 8.$$"
+        ],
+        [
+            "$$\\text{CONVOLUTION (FILTER APPLIED TO IMAGE PATCH):}$$\n$$[1 \\quad 0] \\quad [4 \\quad 5]$$\n$$[0 \\quad -1] * [6 \\quad 7] = -3$$\n$$\\text{OVERLAY THE FILTER ON THE PATCH, MULTIPLY CORRESPONDING ENTRIES, AND}$$\n$$\\text{SUM: } 1 * 4 + 0 * 5 + 0 * 6 + (-1) * 7 = -3.$$"
+        ],
+        [
+            "$$\\text{DEF MULTIPLICATION\\_TABLE(N):}$$\n$$\\text{RETURN [[I * J FOR J IN RANGE(1, N + 1)] FOR I IN RANGE(1, N + 1)]}$$\n$$\\text{THIS IS THE SAME NESTED-LOOP IDEA EXPRESSED AS A NESTED LIST}$$\n$$\\text{COMPREHENSION: FOR EACH I, BUILD A ROW OF I*J VALUES FOR EVERY J FROM 1}$$\n$$\\text{TO N.}$$"
+        ]
+    ],
+    "studentId": 1107890123,
+    "modelId": 1
+}
