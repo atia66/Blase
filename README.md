@@ -138,7 +138,6 @@ Directories:
   - `prompts/written.txt`
 - `ground_truth/`
   - reference answers and grading ground truth
-- `img/` — sample images used by clients and tests
 - `interface/` — PySide6 GUI screens and styles
 - `Machine/` — main request server and producer logic
 - `question_generation/` — PDF chunking and question generation service
