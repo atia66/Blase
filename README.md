@@ -153,13 +153,3 @@ Directories:
 - `question_generation/server.py` must run before sending requests from `client.py`.
 - The project uses multiple services and may require dependencies from `requirements.txt`.
 
-## Graduation Project Evaluation
-
-This is a strong graduation project because it combines:
-
-- event-driven architecture for scalability
-- independent worker stages for detection, OCR, VLM analysis, and grading
-- advanced text processing with both OCR and vision-language models
-- a clear separation between grading and question generation
-
-The design is well-suited for a real-world exam automation system and demonstrates a solid understanding of architecture, modularity, and correctness.
